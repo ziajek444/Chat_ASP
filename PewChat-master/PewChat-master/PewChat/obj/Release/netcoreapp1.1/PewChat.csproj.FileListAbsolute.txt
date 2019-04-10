@@ -1,0 +1,11 @@
+C:\Users\ziajek\Desktop\Ahmed\Projekt\b\PewChat-master\PewChat-master\PewChat\bin\Release\netcoreapp1.1\PewChat.deps.json
+C:\Users\ziajek\Desktop\Ahmed\Projekt\b\PewChat-master\PewChat-master\PewChat\bin\Release\netcoreapp1.1\PewChat.runtimeconfig.json
+C:\Users\ziajek\Desktop\Ahmed\Projekt\b\PewChat-master\PewChat-master\PewChat\bin\Release\netcoreapp1.1\PewChat.runtimeconfig.dev.json
+C:\Users\ziajek\Desktop\Ahmed\Projekt\b\PewChat-master\PewChat-master\PewChat\bin\Release\netcoreapp1.1\PewChat.dll
+C:\Users\ziajek\Desktop\Ahmed\Projekt\b\PewChat-master\PewChat-master\PewChat\bin\Release\netcoreapp1.1\PewChat.pdb
+C:\Users\ziajek\Desktop\Ahmed\Projekt\b\PewChat-master\PewChat-master\PewChat\obj\Release\netcoreapp1.1\PewChat.csprojAssemblyReference.cache
+C:\Users\ziajek\Desktop\Ahmed\Projekt\b\PewChat-master\PewChat-master\PewChat\obj\Release\netcoreapp1.1\PewChat.csproj.CoreCompileInputs.cache
+C:\Users\ziajek\Desktop\Ahmed\Projekt\b\PewChat-master\PewChat-master\PewChat\obj\Release\netcoreapp1.1\PewChat.AssemblyInfoInputs.cache
+C:\Users\ziajek\Desktop\Ahmed\Projekt\b\PewChat-master\PewChat-master\PewChat\obj\Release\netcoreapp1.1\PewChat.AssemblyInfo.cs
+C:\Users\ziajek\Desktop\Ahmed\Projekt\b\PewChat-master\PewChat-master\PewChat\obj\Release\netcoreapp1.1\PewChat.dll
+C:\Users\ziajek\Desktop\Ahmed\Projekt\b\PewChat-master\PewChat-master\PewChat\obj\Release\netcoreapp1.1\PewChat.pdb
