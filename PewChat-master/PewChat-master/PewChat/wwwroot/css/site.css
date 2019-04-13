@@ -1,7 +1,7 @@
 ﻿body {
     padding-top: 50px;
     padding-bottom: 20px;
-    background: #e8e8e8;
+    background: #e8e811;
 }
 
 /* Wrapping element */
@@ -12,7 +12,7 @@
 }
 
 #messages {
-    background: white;
+    background: #808080;
     position: relative;
     height: 80vh;
     max-height: 80vh;
